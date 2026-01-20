@@ -1,1 +1,2 @@
-# eventsapp-j20
+# eventsappstart
+This is a simple events app
